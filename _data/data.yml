@@ -178,13 +178,13 @@ skills:
 
     toolset:
       - name: Pascal
-        level: 10%
+        level: 15%
 
       - name: Python    
-        level: 15%
+        level: 30%
   
       - name: C++ 
-        level: 30%
+        level: 50%
 
       - name: 
         level: 
