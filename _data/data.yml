@@ -7,28 +7,18 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Luong Pham
+    name: Phạm Văn Lương
     tagline: 
     avatar: a.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: pvn.luong@gmail.com
-    phone: 0164 367 1616
-    website:  #do not add http://
-    linkedin: 
+    phone: 0358330599
     github: PVLam
-    gitlab:
-    bitbucket:
-    twitter: ''
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
 
     languages:
-      - idiom: Vietnamsese
-        level: Native
-
       - idiom: English
-        level: Intermediate
+        level: B1
 
       - idiom: Japanese
         level: N4
@@ -37,10 +27,7 @@ sidebar:
       - item: Football
         link:
 
-      - item: Reading
-        link:
-
-      - item: Music
+      - item: Game
         link:
 
 career-profile:
@@ -91,22 +78,6 @@ projects:
         link: ""
         tagline: ""
 
-      - title: 
-        link: ""
-        tagline: ""
-
-      - title: 
-        link: ""
-        tagline: ""
-
-      - title: 
-        link: ""
-        tagline: ""
-
-      - title: 
-        link: ""
-        tagline: ""
-
 publications:
     title: Publications
     intro: |
@@ -129,23 +100,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Pascal
-        level: 25%
+      - name: Frontend
 
-      - name: Python    
-        level: 30%
-  
-      - name: C++ 
-        level: 50%
-
-      - name: 
-        level: 
-
-      - name: 
-        level: 
-
-      - name: 
-        level: 
+   
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
